@@ -1,11 +1,10 @@
 def splitNum(num):           
     num = [int(d) for d in str(num)]
     pow = len(num)-1
-    res = []
-    for n in num:
-        res.append(n*10**pow)
+    for i in range(len(num)):
+        num[i] = (num[i]*10**pow)
         pow -= 1                
-    return res
+    return num
         
 class Solution:
     def multiply(self, num1: str, num2: str) -> str:        
