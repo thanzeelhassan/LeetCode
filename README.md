@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/thanzeelhassan/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Simulation
 |  |
@@ -24,4 +25,32 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/thanzeelhassan/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
