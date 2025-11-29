@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thanzeelhassan/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/thanzeelhassan/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thanzeelhassan/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/thanzeelhassan/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/thanzeelhassan/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thanzeelhassan/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thanzeelhassan/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
