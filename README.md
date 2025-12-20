@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
 | [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2169-simple-bank-system](https://github.com/thanzeelhassan/LeetCode/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/thanzeelhassan/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/thanzeelhassan/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thanzeelhassan/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
@@ -92,9 +94,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/thanzeelhassan/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Union Find
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
