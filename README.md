@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/thanzeelhassan/LeetCode/tree/master/0066-plus-one) |
 | [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
 | [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2058-concatenation-of-array](https://github.com/thanzeelhassan/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/thanzeelhassan/LeetCode/tree/master/0066-plus-one) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/thanzeelhassan/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/thanzeelhassan/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/thanzeelhassan/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
