@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/thanzeelhassan/LeetCode/tree/master/0066-plus-one) |
 | [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
 | [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/thanzeelhassan/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2058-concatenation-of-array](https://github.com/thanzeelhassan/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/thanzeelhassan/LeetCode/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/thanzeelhassan/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/thanzeelhassan/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2169-simple-bank-system](https://github.com/thanzeelhassan/LeetCode/tree/master/2169-simple-bank-system) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thanzeelhassan/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
