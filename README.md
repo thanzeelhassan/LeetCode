@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thanzeelhassan/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1297-maximum-number-of-balloons](https://github.com/thanzeelhassan/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2169-simple-bank-system](https://github.com/thanzeelhassan/LeetCode/tree/master/2169-simple-bank-system) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thanzeelhassan/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1297-maximum-number-of-balloons](https://github.com/thanzeelhassan/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Quickselect
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
+| [1297-maximum-number-of-balloons](https://github.com/thanzeelhassan/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/thanzeelhassan/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thanzeelhassan/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
