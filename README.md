@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thanzeelhassan/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/thanzeelhassan/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/thanzeelhassan/LeetCode/tree/master/4284-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/thanzeelhassan/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [4284-smallest-stable-index-i](https://github.com/thanzeelhassan/LeetCode/tree/master/4284-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
