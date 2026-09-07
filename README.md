@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/thanzeelhassan/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/thanzeelhassan/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/thanzeelhassan/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -148,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/thanzeelhassan/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/thanzeelhassan/LeetCode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
