@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thanzeelhassan/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thanzeelhassan/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thanzeelhassan/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thanzeelhassan/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/thanzeelhassan/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/thanzeelhassan/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/thanzeelhassan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/thanzeelhassan/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -176,4 +179,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/thanzeelhassan/LeetCode/tree/master/0141-linked-list-cycle) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thanzeelhassan/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thanzeelhassan/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
