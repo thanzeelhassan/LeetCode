@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/thanzeelhassan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thanzeelhassan/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1297-maximum-number-of-balloons](https://github.com/thanzeelhassan/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/thanzeelhassan/LeetCode/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/thanzeelhassan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/thanzeelhassan/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/thanzeelhassan/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Dynamic Programming
@@ -167,4 +169,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/thanzeelhassan/LeetCode/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/thanzeelhassan/LeetCode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/thanzeelhassan/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
