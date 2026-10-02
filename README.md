@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thanzeelhassan/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/thanzeelhassan/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
 | [0977-distinct-subsequences-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0977-distinct-subsequences-ii) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thanzeelhassan/LeetCode/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thanzeelhassan/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/thanzeelhassan/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 ## Recursion
@@ -191,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thanzeelhassan/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/thanzeelhassan/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
