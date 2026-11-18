@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/thanzeelhassan/LeetCode/tree/master/0066-plus-one) |
 | [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
+| [0283-move-zeroes](https://github.com/thanzeelhassan/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thanzeelhassan/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2058-concatenation-of-array](https://github.com/thanzeelhassan/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thanzeelhassan/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/thanzeelhassan/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/thanzeelhassan/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/thanzeelhassan/LeetCode/tree/master/0283-move-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
