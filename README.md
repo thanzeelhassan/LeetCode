@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/thanzeelhassan/LeetCode/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thanzeelhassan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0212-word-search-ii](https://github.com/thanzeelhassan/LeetCode/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/thanzeelhassan/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thanzeelhassan/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/thanzeelhassan/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/thanzeelhassan/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thanzeelhassan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/thanzeelhassan/LeetCode/tree/master/0283-move-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -200,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/thanzeelhassan/LeetCode/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thanzeelhassan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
