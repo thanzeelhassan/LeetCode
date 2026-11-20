@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/thanzeelhassan/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2169-simple-bank-system](https://github.com/thanzeelhassan/LeetCode/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/thanzeelhassan/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thanzeelhassan/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/thanzeelhassan/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/thanzeelhassan/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/thanzeelhassan/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1297-maximum-number-of-balloons](https://github.com/thanzeelhassan/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2169-simple-bank-system](https://github.com/thanzeelhassan/LeetCode/tree/master/2169-simple-bank-system) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/thanzeelhassan/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thanzeelhassan/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
